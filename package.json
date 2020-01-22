@@ -1,0 +1,8 @@
+{
+  "name": "LibreAcai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Carrot-Cake-with-Choco/LibreAcai.git",
+  "author": "Lindson França <l1nds0n@hotmail.com>",
+  "license": "MIT"
+}
